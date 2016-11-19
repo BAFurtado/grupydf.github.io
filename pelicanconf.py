@@ -239,7 +239,12 @@ MEMBROS = OrderedDict((
         "email": "wagnerjs.unb@gmail.com",
         "twitter": "@wagnerjsantos",
         "github": "wagnerjs"
-        })
+        }),
+    ("Bernardo Furtado", {
+      "email": "furtadobb@gmail.com",
+      "twitter": "@d_young_69",
+      "github": "BAFurtado"
+    })
 ))
 
 MALT_HOME = [
